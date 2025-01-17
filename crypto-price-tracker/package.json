@@ -9,8 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "arweave": "^1.15.5",
     "axios": "^1.7.9",
     "chart.js": "^4.4.7",
+    "firebase": "^11.2.0",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
