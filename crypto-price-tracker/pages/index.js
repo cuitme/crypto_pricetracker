@@ -100,7 +100,7 @@ export default function Home() {
 
         {/* Add Image and Intro Text */}
         <div style={styles.intro}>
-          <img src="" alt="Crypto" style={styles.image} />
+          <img src="https://raw.githubusercontent.com/cuitme/crypto_pricetracker/refs/heads/main/crypto-price-tracker/ss.png" alt="Crypto" style={styles.image} />
           <p style={styles.introText}>Welcome to Crypto Price Tracker. Track real-time prices and sort cryptocurrency data based on your preferences!</p>
         </div>
 
